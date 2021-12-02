@@ -1,0 +1,24 @@
+{
+  "name": "@jc-castro/testpackage",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JC-Castro/testPackage.git"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "jc"
+  ],
+  "author": "JC Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JC-Castro/testPackage/issues"
+  },
+  "homepage": "https://github.com/JC-Castro/testPackage#readme"
+}
