@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/JC-Castro/testPackage#readme"
   "publishConfig": {
-   "@jc-castro:registry": "https://npm.pkg.github.com"
+   "@JC-Castro:registry": "https://npm.pkg.github.com"
  }
 }
